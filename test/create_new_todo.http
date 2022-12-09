@@ -1,0 +1,7 @@
+POST {{base_url}}/todos
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NzA0ODYyMDB9.O4F1VcZAJFmuiQyjiy0lMjeu8BEy8nhKZyXPSDFiM7A
+
+{
+  "text":"test 3"
+}
